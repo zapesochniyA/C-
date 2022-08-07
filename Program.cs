@@ -4,6 +4,14 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-int number1 = Convert.ToInt32(Console.ReadLine());
-int number2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите первое число");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
 
+Console.WriteLine("Введите второе число");
+int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+if (firstNumber < secondNumber)
+{
+    Console.WriteLine(firstNumber + " является меньшим " + secondNumber + " является большим ");
+}
+else Console.WriteLine(secondNumber + " является меньшим " + firstNumber + " является большим ");
