@@ -3,3 +3,13 @@ C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.GeneratedMSBuildEditorCo
 C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.AssemblyInfoInputs.cache
 C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.AssemblyInfo.cs
 C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.csproj.CoreCompileInputs.cache
+C:\Lessons\Homework C# 1\bin\Debug\net6.0\Homework C# 1.exe
+C:\Lessons\Homework C# 1\bin\Debug\net6.0\Homework C# 1.deps.json
+C:\Lessons\Homework C# 1\bin\Debug\net6.0\Homework C# 1.runtimeconfig.json
+C:\Lessons\Homework C# 1\bin\Debug\net6.0\Homework C# 1.dll
+C:\Lessons\Homework C# 1\bin\Debug\net6.0\Homework C# 1.pdb
+C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.dll
+C:\Lessons\Homework C# 1\obj\Debug\net6.0\refint\Homework C# 1.dll
+C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.pdb
+C:\Lessons\Homework C# 1\obj\Debug\net6.0\Homework C# 1.genruntimeconfig.cache
+C:\Lessons\Homework C# 1\obj\Debug\net6.0\ref\Homework C# 1.dll
